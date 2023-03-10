@@ -16,6 +16,13 @@ public class Student {
     public String GetCarree(){
         return carree;
     }
+    public void Smos(){
+        System.out.println("He is very Smos <3");
+    }
+
+    public void Love(){
+        System.out.println("He love Everything");
+    }
     public Student(int id,String name, String gender,String carree){
         this.id=id;
         this.name=name;
